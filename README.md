@@ -1,78 +1,107 @@
 <div align="center">
-<!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+%5BAnsh+Surana%5D+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
-<br/>
-<!-- Social Badges -->
-Show Image
-Show Image
-Show Image
-Show Image
-<br/>
-<!-- Profile Views Counter -->
-Show Image
+
+# Hi there, I'm [Your Name] 👋
+
+### 🚀 Full-Stack Developer | Open Source Enthusiast | Lifelong Learner
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yourwebsite.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
 </div>
 
-🧠 About Me
-yamlname: Your Name
+---
+
+## 🧠 About Me
+
+```yaml
+name: Your Name
 location: Your City, Country
 role: Full-Stack Developer
 focus: ["Web Apps", "Open Source", "Clean Code"]
-learning: ["System Design", "Cloud Architecture"]
+currently_learning: ["System Design", "Cloud Architecture"]
 fun_fact: I debug with coffee ☕ and rubber ducks 🦆
+```
 
-🛠️ Tech Stack
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-Languages
-Show Image
-Show Image
-Show Image
-Show Image
-Frontend
-Show Image
-Show Image
-Show Image
-Backend & DB
-Show Image
-Show Image
-Show Image
-Show Image
-DevOps & Tools
-Show Image
-Show Image
-Show Image
-Show Image
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
+
 </div>
 
-📊 GitHub Stats
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-<br/>
-Show Image
-</div>
+---
 
-🏆 GitHub Trophies
-<div align="center">
-Show Image
-</div>
+## 🚀 Featured Projects
 
-🚀 Featured Projects
-<div align="center">
-Show Image
-Show Image
-</div>
+### 🔹 [Project Name 1](https://github.com/yourusername/project1)
+> Short description of what this project does and the problem it solves.
 
-📈 Contribution Graph
-<div align="center">
-Show Image
-</div>
+`JavaScript` `React` `Node.js` ⭐ 120 stars
 
-🎵 Vibe While I Code
-<div align="center">
-Show Image
-</div>
+### 🔹 [Project Name 2](https://github.com/yourusername/project2)
+> Short description of what this project does and the problem it solves.
+
+`Python` `FastAPI` `PostgreSQL` ⭐ 85 stars
+
+### 🔹 [Project Name 3](https://github.com/yourusername/project3)
+> Short description of what this project does and the problem it solves.
+
+`TypeScript` `Next.js` `TailwindCSS` ⭐ 60 stars
+
+---
+
+## 📬 Let's Connect
+
+I'm always open to interesting conversations, collaborations, or just a friendly chat!
+
+- 💼 Open to **freelance / full-time opportunities**
+- 🤝 Looking to **collaborate on open source**
+- 💬 Ask me about **JavaScript, React, Node.js, System Design**
+
+---
 
 <div align="center">
-"Code is like humor. When you have to explain it, it's bad." – Cory House
-⭐️ If you like what you see, feel free to star my repos!
+
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+
+**Thanks for visiting! Drop a ⭐ on something you find useful 😊**
+
 </div>
