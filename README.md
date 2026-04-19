@@ -1,59 +1,91 @@
 <div align="center">
 
-# Hi there, I'm [Your Name] 👋
+# Ansh Surana 🚀
 
-### 🚀 Full-Stack Developer | Open Source Enthusiast | Lifelong Learner
+### Builder. Tinkerer. AI Enthusiast.
+
+*I ship things. Every day.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yourwebsite.com)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourwebsite.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Anshsurana123&style=flat-square&color=blue&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 👋 Hey, I'm Ansh
 
-```yaml
-name: Your Name
-location: Your City, Country
-role: Full-Stack Developer
-focus: ["Web Apps", "Open Source", "Clean Code"]
-currently_learning: ["System Design", "Cloud Architecture"]
-fun_fact: I debug with coffee ☕ and rubber ducks 🦆
+```python
+ansh = {
+    "location"  : "India 🇮🇳",
+    "building"  : ["AI tools", "Web apps", "Mobile apps"],
+    "stack"     : ["Python", "TypeScript", "Next.js", "Kotlin"],
+    "obsessed_with" : "making AI build things so I don't have to 😄",
+    "currently" : "shipping something new every single day 🔥"
+}
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ What I Work With
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-**Frontend**
+**Frontend & Mobile**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-**Backend & Database**
+**Backend & Tools**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🔥 Featured Projects
+
+### 🤖 [AI Daily Builder](https://github.com/Anshsurana123/ai-daily-builder)
+> An AI that builds something new every single day — automated with GitHub Actions.
+
+A Python-powered automation that uses AI to generate and ship a new micro-project daily. Set it and forget it.
+
+`Python` `AI` `GitHub Actions` `Automation`
+
+---
+
+### 💊 [Sark Pharma Tech Services](https://github.com/Anshsurana123/sarkpharmatechservices)
+> A full-stack pharma services web platform — live on the internet.
+
+Built with Next.js and TypeScript with a full PostgreSQL database setup. Clean, professional, production-deployed.
+
+`Next.js` `TypeScript` `PostgreSQL` `Vercel` → [**Live Site ↗**](https://sarkpharmatechservices.vercel.app)
+
+---
+
+### 📱 [Jago](https://github.com/Anshsurana123/jago)
+> A native Android app built with Kotlin.
+
+`Kotlin` `Android`
+
+---
+
+### 📊 [AI Builds Index](https://github.com/Anshsurana123/ai-builds-index)
+> An index of AI-generated builds — tracking what gets made.
+
+`Jupyter Notebook` `AI` `Python`
 
 ---
 
@@ -61,47 +93,26 @@ fun_fact: I debug with coffee ☕ and rubber ducks 🦆
 
 <div align="center">
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Ansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anshsurana123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshsurana123&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 📬 Let's Talk
 
-### 🔹 [Project Name 1](https://github.com/yourusername/project1)
-> Short description of what this project does and the problem it solves.
-
-`JavaScript` `React` `Node.js` ⭐ 120 stars
-
-### 🔹 [Project Name 2](https://github.com/yourusername/project2)
-> Short description of what this project does and the problem it solves.
-
-`Python` `FastAPI` `PostgreSQL` ⭐ 85 stars
-
-### 🔹 [Project Name 3](https://github.com/yourusername/project3)
-> Short description of what this project does and the problem it solves.
-
-`TypeScript` `Next.js` `TailwindCSS` ⭐ 60 stars
-
----
-
-## 📬 Let's Connect
-
-I'm always open to interesting conversations, collaborations, or just a friendly chat!
-
-- 💼 Open to **freelance / full-time opportunities**
-- 🤝 Looking to **collaborate on open source**
-- 💬 Ask me about **JavaScript, React, Node.js, System Design**
+- 🤝 Always open to **collaborations and ideas**
+- 💬 Ask me about **AI automation, Next.js, Python scripting**
+- 📩 Reach me at **your@email.com**
 
 ---
 
 <div align="center">
 
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+*"An idea is nothing until you ship it."*
 
-**Thanks for visiting! Drop a ⭐ on something you find useful 😊**
+**⭐ Star something if it sparks joy!**
 
 </div>
