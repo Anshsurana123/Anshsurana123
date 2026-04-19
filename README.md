@@ -7,7 +7,7 @@
 *I ship things. Every day.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshsuran01@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourwebsite.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Anshsurana123&style=flat-square&color=blue&label=PROFILE+VIEWS)
@@ -105,7 +105,7 @@ Built with Next.js and TypeScript with a full PostgreSQL database setup. Clean, 
 
 - 🤝 Always open to **collaborations and ideas**
 - 💬 Ask me about **AI automation, Next.js, Python scripting**
-- 📩 Reach me at **your@email.com**
+- 📩 Reach me at **anshsuran01@gmail.com**
 
 ---
 
