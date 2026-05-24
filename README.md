@@ -60,7 +60,7 @@ ansh = {
 
 ## 🔥 Featured Projects
 
-### 🧠 [SwarmMatrix AI — Talent Radar](https://github.com/Anshsurana123/SwarmMatrix)
+### 🧠 [Job Recruitment — Talent Radar](https://github.com/Anshsurana123/job-recruitment)
 > An enterprise-grade AI recruiting engine replacing traditional keyword-matching ATS with a multi-agent SLM swarm.
 
 - ⚙️ **SLM Agent Swarm**: Routes candidates across 12 domain-specific SLMs (CodeBERT, FinBERT, BioBERT) with anisotropy-corrected cosine similarity scoring.
