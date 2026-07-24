@@ -106,7 +106,7 @@ ansh = {
 
 ---
 
-### 🗣️ [Jago — AI Voice Assistant for Android](https://github.com/Anshsurana123/jago)
+### 🗣️ [Jagrut — AI Voice Assistant for Android](https://github.com/Anshsurana123/jagrut)
 > Privacy-first, Hinglish-native Android assistant with offline wake word detection and zero-API GUI automation.
 
 - 🔒 **Edge AI Privacy**: Executes device commands and wake word detection locally on the phone with zero cloud latency.
