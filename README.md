@@ -1,56 +1,371 @@
 <div align="center">
 
-# Ansh Surana
+# ⚡ ANSH SURANA
 
-### I build AI systems, infrastructure, and developer tools.
+### `AI Systems` · `Infrastructure` · `Security` · `Edge AI`
 
-**From vector databases and retrieval systems to Android automation and security infrastructure — I like building the layers underneath the product.**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=I+build+systems%2C+not+just+demos.;I+like+breaking+my+own+software.;AI+%C3%97+Infrastructure+%C3%97+Security+%C3%97+Automation;Build.+Measure.+Break.+Fix.+Ship." />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:anshsuran01@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://portfolio-website-rho-five-80.vercel.app/)
+<br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Anshsurana123\&style=flat-square\&label=PROFILE+VIEWS)
+[![GitHub](https://img.shields.io/badge/GitHub-Anshsurana123-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Anshsurana123)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-anshsuran01%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:anshsuran01@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://portfolio-website-rho-five-80.vercel.app/)
+
+<img src="https://komarev.com/ghpvc/?username=Anshsurana123&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## 👋 About Me
+<div align="center">
 
-I'm a developer who enjoys building the parts that usually get hidden behind abstractions.
+> **I don't just use abstractions.**
+>
+> **Sometimes I build what's underneath them.**
 
-My projects tend to sit at the intersection of:
-
-* **AI / ML systems**
-* **retrieval & ranking**
-* **backend infrastructure**
-* **security**
-* **Android / edge AI**
-* **developer tooling**
-* **distributed and real-time systems**
-
-I care about more than getting a demo to work. I like measuring systems, understanding failure modes, and figuring out what happens underneath the API call.
-
-```python
-ansh = {
-    "location": "India 🇮🇳",
-    "languages": ["Rust", "Python", "Go", "TypeScript", "Kotlin"],
-    "interests": [
-        "AI systems",
-        "retrieval & ranking",
-        "infrastructure",
-        "security",
-        "edge AI",
-        "developer tools"
-    ],
-    "current_mode": "build → measure → break → improve"
-}
-```
+</div>
 
 ---
 
-## 🧰 Tech I Work With
+## 🧠 `$ whoami`
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  ANSH SURANA                                            │
+│                                                         │
+│  ▸ AI systems                                           │
+│  ▸ Retrieval & ranking                                  │
+│  ▸ Backend infrastructure                               │
+│  ▸ Security engineering                                 │
+│  ▸ Edge / Android AI                                    │
+│  ▸ Developer tooling                                    │
+│                                                         │
+│  Current loop:                                          │
+│                                                         │
+│       BUILD → MEASURE → BREAK → FIX → SHIP             │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+I like working on the layer where things stop being magic and start becoming engineering.
+
+Vector indexes.
+Retrieval pipelines.
+Authentication protocols.
+Agent execution.
+Android internals.
+Real-time systems.
+
+Basically:
+
+**if something interesting is happening underneath the API, I probably want to know how it works.**
+
+---
+
+# 🚀 Things I've Built
+
+<div align="center">
+
+### 🧠 SYSTEMS
+
+**`vector-db-from-scratch`**
+
+### ⚡ AI
+
+**`RAGINGOA`**
+
+### 🔐 SECURITY
+
+**`Bitfrost`**
+
+### 📱 EDGE
+
+**`Jagrut`**
+
+### 🔎 INTELLIGENCE
+
+**`Sentinel`**
+
+### 🎯 RANKING
+
+**`Job Recruitment`**
+
+</div>
+
+---
+
+# 🧠 `vector-db-from-scratch`
+
+### A vector database built from scratch in Rust.
+
+**HNSW · WAL · Snapshots · Recovery · PQ · Filtering · Concurrency**
+
+This is probably the project that best represents how I like to build.
+
+Instead of wrapping an existing vector database, I implemented the machinery underneath it.
+
+```text
+                    ┌───────────────┐
+                    │    Client     │
+                    └───────┬───────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │   API Layer   │
+                    └───────┬───────┘
+                            │
+                 ┌──────────┴──────────┐
+                 ▼                     ▼
+          ┌──────────────┐      ┌──────────────┐
+          │ HNSW Search  │      │   Filtering  │
+          └──────┬───────┘      └──────┬───────┘
+                 │                     │
+                 └──────────┬──────────┘
+                            ▼
+                    ┌───────────────┐
+                    │ Vector Store  │
+                    └───────┬───────┘
+                            │
+                  ┌─────────┴─────────┐
+                  ▼                   ▼
+             ┌────────┐          ┌──────────┐
+             │  WAL   │          │ Snapshot │
+             └────┬───┘          └─────┬────┘
+                  └─────────┬──────────┘
+                            ▼
+                       Crash Recovery
+```
+
+### What makes it interesting
+
+* HNSW approximate nearest-neighbor search
+* optimized distance calculations
+* metadata filtering
+* tombstones and compaction
+* product quantization
+* WAL persistence
+* snapshot recovery
+* concurrent read/write workloads
+* actual recall and latency gates
+* crash-recovery testing
+
+`Rust` `HNSW` `WAL` `PQ` `Concurrency`
+
+---
+
+# ⚡ `RAGINGOA`
+
+### Retrieval engineering, not “just another RAG app.”
+
+**FAISS HNSW · Embeddings · Reranking · Guardrails · Multilingual · STT**
+
+The pipeline is designed around measurable retrieval latency and layered safety rather than a single `retrieve → prompt → answer` call.
+
+```text
+Input
+  │
+  ▼
+Language / STT
+  │
+  ▼
+Guardrails
+  │
+  ▼
+Embedding
+  │
+  ▼
+FAISS HNSW
+  │
+  ▼
+Hybrid Retrieval
+  │
+  ▼
+Reranking
+  │
+  ▼
+Evidence
+  │
+  ▼
+Generation
+  │
+  ▼
+Post-check
+  │
+  ▼
+Response
+```
+
+The repository includes reproducible retrieval benchmark artifacts with measured latency breakdowns and percentile statistics.
+
+`Python` `FAISS` `HNSW` `Embeddings` `Reranking`
+
+---
+
+# 🔐 `Bitfrost`
+
+### An AI/API gateway built around identity, request protection and reliability.
+
+**HMAC · Replay Protection · Rate Limiting · Circuit Breaker · Cache · Telemetry**
+
+The interesting part isn't forwarding an API request.
+
+It's everything that can go wrong around one.
+
+```text
+Client
+  │
+  ▼
+Identity
+  │
+  ├── HMAC
+  ├── Timestamp
+  ├── Replay Protection
+  └── Tenant Validation
+           │
+           ▼
+      Policy Layer
+           │
+      ┌────┴────┐
+      ▼         ▼
+    Cache    Upstream
+      │         │
+      └────┬────┘
+           ▼
+       Telemetry
+```
+
+`Go` `HMAC-SHA256` `Supabase` `WebSockets` `Gateway`
+
+---
+
+# 📱 `Jagrut`
+
+### An Android assistant that actually touches the operating system.
+
+**Wake Word · ONNX/TFLite · Hinglish · Accessibility · Camera2 · Automation**
+
+Instead of stopping at conversational AI, Jagrut connects language understanding to real Android capabilities.
+
+```text
+Voice
+  │
+  ▼
+Wake Word
+  │
+  ▼
+STT
+  │
+  ▼
+Command Parser
+  │
+  ├───────────────┐
+  ▼               ▼
+Local Action    AI Planner
+  │               │
+  └───────┬───────┘
+          ▼
+    Action Validation
+          │
+          ▼
+ Android Execution
+```
+
+Built around Android internals such as `AccessibilityService`, Camera2, and on-device model runtimes.
+
+`Kotlin` `Android` `ONNX Runtime` `AccessibilityService` `Camera2`
+
+---
+
+# 🔎 `Sentinel`
+
+### Academic intelligence + claim lineage.
+
+Sentinel combines academic document processing with a structured claim relationship model.
+
+The interesting bit isn't simply generating an answer.
+
+It's being able to reason about:
+
+**Where did this claim come from?**
+**What supports it?**
+**What depends on it?**
+**What is connected to it?**
+
+```text
+Source
+  │
+  ▼
+Document
+  │
+  ▼
+Claim
+  │
+ ┌┴─────────────┐
+ ▼              ▼
+Parent        Children
+ │              │
+ └──────┬───────┘
+        ▼
+   Evidence Graph
+```
+
+`Next.js` `React` `Prisma` `Supabase` `Gemini`
+
+---
+
+# 🎯 `Job Recruitment`
+
+### Hybrid retrieval + deterministic ranking + reranking.
+
+Rather than asking an LLM to simply “score this candidate,” the system separates retrieval and ranking into distinct stages.
+
+```text
+Candidate
+   │
+   ├───────────────┐
+   ▼               ▼
+Lexical         Semantic
+Retrieval       Retrieval
+   │               │
+   └───────┬───────┘
+           ▼
+      Hybrid Score
+           │
+           ▼
+   Deterministic Rules
+           │
+           ▼
+    Cross-Encoder
+           │
+           ▼
+      Final Ranking
+```
+
+`Python` `BM25` `Embeddings` `Cross-Encoder` `Docker`
+
+---
+
+# 🧪 The Rest of the Lab
+
+Not every experiment deserves a giant section.
+
+But they're here:
+
+| Project                                                                              | What it explores                                                     |
+| ------------------------------------------------------------------------------------ | -------------------------------------------------------------------- |
+| [Collaborative Workspace](https://github.com/Anshsurana123/collaborative-workspace)  | Real-time collaboration, synchronization, whiteboards & shared state |
+| [DevLens](https://github.com/Anshsurana123/dev-lens-IBM-BOB)                         | AI-assisted repository analysis and developer tooling                |
+| [ChronoGuard](https://github.com/Anshsurana123/ChronoGuard)                          | Computer vision, tracking, privacy filtering & real-time events      |
+| [Sark Pharma Tech Services](https://github.com/Anshsurana123/sarkpharmatechservices) | Deployed full-stack product                                          |
+
+---
+
+# 🧰 Stack
+
+<div align="center">
 
 ### Languages
 
@@ -60,204 +375,79 @@ ansh = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
 
-### AI / ML / Data
+### AI / Systems
 
 ![FAISS](https://img.shields.io/badge/FAISS-005571?style=for-the-badge)
-![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge\&logo=onnx\&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge\&logo=onnx\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-### Web / Mobile
+### Web / Infrastructure
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-
-### Infrastructure
-
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+</div>
 
 ---
 
-# 🔥 Featured Projects
-
-## 🧠 [Vector DB from Scratch](https://github.com/Anshsurana123/vector-db-from-scratch)
-
-**A persistent vector database built in Rust.**
-
-Built from the ground up to explore how modern vector infrastructure actually works.
-
-* **HNSW** approximate nearest-neighbor indexing
-* **Optimized distance functions** with manual loop unrolling
-* **Metadata filtering** with correctness-preserving fallback behavior
-* **WAL + snapshots + crash recovery**
-* **Product Quantization** for compressed vector storage
-* **Concurrent reads and writes**
-* **Benchmark and correctness gates** for recall, latency, persistence, and recovery
-
-The project includes actual crash-recovery tests and concurrent workloads rather than relying purely on synthetic examples.
-
-`Rust` `HNSW` `WAL` `Product Quantization` `Concurrency`
-
----
-
-## ⚡ [RAGINGOA](https://github.com/Anshsurana123/RAGINGOA)
-
-**A multilingual retrieval system designed around measurable latency and layered safety.**
-
-* FAISS **HNSW** retrieval
-* Embedding + retrieval + reranking pipeline
-* Multilingual query processing
-* STT integration
-* Layered input/output guardrails
-* Extractive evidence handling before generative synthesis
-* Retrieval benchmarks with recorded **P50 / P95 / P99** measurements
-
-The repository includes the benchmark artifacts used to evaluate the retrieval pipeline and break latency down across its major stages.
-
-`Python` `FAISS` `HNSW` `Embeddings` `Reranking` `Guardrails`
-
----
-
-## 🔐 [Bitfrost](https://github.com/Anshsurana123/Bitfrost)
-
-**An AI/API gateway focused on identity, request protection, caching, and operational controls.**
-
-* HMAC-based request authentication
-* Timestamp / replay protection
-* Tenant-aware request handling
-* Circuit breaker
-* Rate limiting
-* Semantic-response caching
-* Real-time WebSocket telemetry
-* Upstream AI request proxying
-
-Built as an exploration of the security and reliability problems surrounding AI gateways rather than just another API wrapper.
-
-`Go` `HMAC-SHA256` `Supabase` `WebSockets` `API Gateway`
-
----
-
-## 📱 [Jagrut](https://github.com/Anshsurana123/jagrut)
-
-**An Android assistant built around on-device intelligence and system-level automation.**
-
-* Offline wake-word inference
-* ONNX/TFLite model integration
-* Hinglish command parsing
-* Android `AccessibilityService` automation
-* Camera2 integration
-* Deterministic local command handling
-* AI-assisted action planning
-* Explicit action restrictions before execution
-
-The interesting part isn't the chatbot — it's the bridge between natural-language commands and actual Android capabilities.
-
-`Kotlin` `Android SDK` `ONNX Runtime` `AccessibilityService` `Camera2`
-
----
-
-## 🔎 [Sentinel](https://github.com/Anshsurana123/sentinel)
-
-**An academic intelligence platform combining document analysis with claim and source lineage.**
-
-* Supabase authentication
-* Prisma-backed data model
-* Academic document processing
-* Gemini-powered analysis
-* Claim relationships and lineage
-* Recursive parent/child claim traversal
-* Interactive visualization of evidence relationships
-* Modular API routes for separate system concerns
-
-The claim-chain system is designed to preserve relationships between claims rather than treating generated answers as isolated text.
-
-`Next.js` `React` `Prisma` `Supabase` `Gemini`
-
----
-
-## 🎯 [Job Recruitment](https://github.com/Anshsurana123/job-recruitment)
-
-**A hybrid information-retrieval and ranking pipeline for candidate matching.**
-
-* Lexical + semantic retrieval
-* Candidate scoring
-* Seniority and experience analysis
-* Cross-encoder reranking
-* Duplicate / keyword-stuffed content detection
-* Deterministic ranking logic
-* Validation and evaluation tooling
-
-Rather than asking an LLM to simply "score a resume", the system separates retrieval, scoring, and reranking into distinct stages.
-
-`Python` `Embeddings` `BM25` `Cross-Encoder` `Docker`
-
----
-
-# 🧪 Other Things I've Built
-
-A few other projects worth exploring:
-
-**[Collaborative Workspace](https://github.com/Anshsurana123/collaborative-workspace)**
-Real-time collaborative workspace using synchronization, WebSockets, whiteboards, Kanban, and document-style collaboration.
-
-**[DevLens](https://github.com/Anshsurana123/dev-lens-IBM-BOB)**
-AI-assisted repository analysis, code review, security review, documentation, and developer workflows.
-
-**[ChronoGuard](https://github.com/Anshsurana123/ChronoGuard)**
-Computer-vision prototype exploring tracking, privacy filtering, geofencing, and real-time events.
-
-**[Sark Pharma Tech Services](https://github.com/Anshsurana123/sarkpharmatechservices)**
-A deployed full-stack web platform built with Next.js, TypeScript, and PostgreSQL.
-
----
-
-# 📈 How I Like to Build
+# ⚙️ Current Operating System
 
 ```text
-Idea
- ↓
-Prototype
- ↓
-Measure
- ↓
-Find the ugly edge cases
- ↓
-Break it
- ↓
-Fix it
- ↓
-Ship
+┌────────────────────────────────────────────────────────┐
+│                                                        │
+│  BUILD                                                │
+│      ↓                                                 │
+│  MEASURE                                               │
+│      ↓                                                 │
+│  FIND THE UGLY EDGE CASE                               │
+│      ↓                                                 │
+│  BREAK IT                                               │
+│      ↓                                                 │
+│  FIX IT                                                 │
+│      ↓                                                 │
+│  SHIP                                                   │
+│      ↺                                                 │
+│                                                        │
+└────────────────────────────────────────────────────────┘
 ```
 
-I'm particularly interested in projects where the interesting question isn't just:
+I genuinely enjoy the part where the happy-path demo stops working.
 
-> **"Can we make it work?"**
-
-but:
-
-> **"What happens when it fails, scales, gets attacked, or gets pushed past its happy path?"**
+That's usually where the interesting engineering starts.
 
 ---
 
-# 📬 Let's Talk
+# 📊 GitHub Activity
 
-I'm interested in collaborating on:
+<div align="center">
 
-**AI systems · retrieval · infrastructure · security · developer tools · Android/edge AI**
+<img src="https://github-readme-stats.vercel.app/api?username=Anshsurana123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-📩 **[anshsuran01@gmail.com](mailto:anshsuran01@gmail.com)**
+<br>
 
-🌐 **[Portfolio](https://portfolio-website-rho-five-80.vercel.app/)**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshsurana123&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
 <div align="center">
 
-### Build things worth inspecting.
+<img src="https://raw.githubusercontent.com/Anshsurana123/Anshsurana123/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+<div align="center">
+
+### `some people collect tabs. I collect unfinished systems.`
+
+<br>
+
+**Build something weird.**
 
 </div>
