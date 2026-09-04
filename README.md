@@ -1,166 +1,263 @@
 <div align="center">
 
-# Ansh Surana 🚀
+# Ansh Surana
 
-### Builder. Tinkerer. AI Enthusiast.
+### I build AI systems, infrastructure, and developer tools.
 
-*I ship things. Every day.*
+**From vector databases and retrieval systems to Android automation and security infrastructure — I like building the layers underneath the product.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshsuran01@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-rho-five-80.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:anshsuran01@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://portfolio-website-rho-five-80.vercel.app/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Anshsurana123&style=flat-square&color=blue&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Anshsurana123\&style=flat-square\&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 👋 Hey, I'm Ansh
+## 👋 About Me
+
+I'm a developer who enjoys building the parts that usually get hidden behind abstractions.
+
+My projects tend to sit at the intersection of:
+
+* **AI / ML systems**
+* **retrieval & ranking**
+* **backend infrastructure**
+* **security**
+* **Android / edge AI**
+* **developer tooling**
+* **distributed and real-time systems**
+
+I care about more than getting a demo to work. I like measuring systems, understanding failure modes, and figuring out what happens underneath the API call.
 
 ```python
 ansh = {
-    "location"      : "India 🇮🇳",
-    "building"      : ["AI Agentic Swarms", "Zero-Trust Gateways", "Production-grade Web & Mobile apps"],
-    "stack"         : ["Python", "Go", "TypeScript", "Next.js", "Kotlin"],
-    "obsessed_with" : "orchestrating AI agents to solve complex human challenges 😄",
-    "currently"     : "shipping robust systems and agentic workflows 🔥"
+    "location": "India 🇮🇳",
+    "languages": ["Rust", "Python", "Go", "TypeScript", "Kotlin"],
+    "interests": [
+        "AI systems",
+        "retrieval & ranking",
+        "infrastructure",
+        "security",
+        "edge AI",
+        "developer tools"
+    ],
+    "current_mode": "build → measure → break → improve"
 }
 ```
 
 ---
 
-## 🛠️ What I Work With
+## 🧰 Tech I Work With
 
-**Languages**
+### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
 
-**Frontend & Mobile**
+### AI / ML / Data
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-005571?style=for-the-badge)
+![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge\&logo=onnx\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-**Backend, Database & Devops**
+### Web / Mobile
 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
----
+### Infrastructure
 
-## 🔥 Featured Projects
-
-### 🧠 [Job Recruitment — Talent Radar](https://github.com/Anshsurana123/job-recruitment)
-> An enterprise-grade AI recruiting engine replacing traditional keyword-matching ATS with a multi-agent SLM swarm.
-
-- ⚙️ **SLM Agent Swarm**: Routes candidates across 12 domain-specific SLMs (CodeBERT, FinBERT, BioBERT) with anisotropy-corrected cosine similarity scoring.
-- 🎯 **Advanced Scoring & Guardrails**: Evaluates experience depth (60%), seniority-progression velocity (25%), and freshness (15%) while detecting duplicate or keyword-stuffed resumes.
-- 📂 **Multi-Modal Smart Ingest**: Leverages local Qwen2-VL visual language models and EasyOCR cascades to process bulk scanned PDFs securely.
-- 🤖 **Recruiter Copilot**: Auto-generates side-by-side trade-off matrices, personalized email outreach, and tailored screen guides based on candidate gaps.
-
-`Python` `Gemini 2.5 Flash` `Qwen2-VL` `Docker` `Next.js`
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
 ---
 
-### ⚡ [Bifröst — B2B AI Gateway](https://github.com/Anshsurana123/bifrost-gateway)
-> A zero-trust, cloud-native AI reverse proxy with semantic caching and prompt injection defense built for B2B SaaS.
+# 🔥 Featured Projects
 
-- 🔐 **Zero-Trust Security**: Employs HMAC-SHA256 identity fingerprinting with replay attack protection.
-- 🧠 **Semantic Cache**: Uses PostgreSQL with `pgvector` to identify and hit semantically similar prompts.
-- 🛡️ **Injection Auditor**: Performs background asynchronous prompt injection screening powered by Ollama Cloud.
-- 📊 **Telemetry & Analytics**: Real-time WebSocket dashboard calculating throughput, latency, and exact token cost savings saved per cache hit.
+## 🧠 [Vector DB from Scratch](https://github.com/Anshsurana123/vector-db-from-scratch)
 
-`Go (Golang)` `Next.js` `Supabase` `pgvector` `Render` `Vercel`
+**A persistent vector database built in Rust.**
 
----
+Built from the ground up to explore how modern vector infrastructure actually works.
 
-### 🔍 [DevLens](https://github.com/Anshsurana123/dev-lens-IBM-BOB)
-> Instant, senior-level code reviews and codebase documentation platform built for the IBM Bob Hackathon 2026.
+* **HNSW** approximate nearest-neighbor indexing
+* **Optimized distance functions** with manual loop unrolling
+* **Metadata filtering** with correctness-preserving fallback behavior
+* **WAL + snapshots + crash recovery**
+* **Product Quantization** for compressed vector storage
+* **Concurrent reads and writes**
+* **Benchmark and correctness gates** for recall, latency, persistence, and recovery
 
-- 💎 **6 Core Audit Modes**: OWASP Top 10 security scanner, Big O performance profiling, automated test generators (Jest/Pytest), SOLID refactoring recommendations, and semantic code explanations.
-- 📂 **Full Repository Scanning**: Parses entire GitHub repos instantly to construct comprehensive "Repo Bibles" for rapid onboarding.
-- ⌨️ **IDE Slash Commands**: Provides 12 direct slash commands (e.g., `/review-pr`, `/explain-repo`) native to modern AI editors.
+The project includes actual crash-recovery tests and concurrent workloads rather than relying purely on synthetic examples.
 
-`Next.js 14` `Gemini 2.5 Flash` `React` `TailwindCSS` `Vercel Edge`
-
----
-
-### 🛰️ [The Sentinel](https://github.com/Anshsurana123/sentinel)
-> State-of-the-art academic intelligence aggregator and formula lineage verification system.
-
-- 📐 **Rosetta Physics Engine**: Bi-directional mathematical translation mapping LaTeX equations into their underlying calculus forms with interactive simulations via `Matter.js` and `Mafs`.
-- 📜 **Lineage Verification**: SVG-based interactive node graphs tracing mathematical and academic claims back to primary sources with custom verdict classifications.
-- 🔗 **Real-Time Ingestion**: Ingests fragmented academic discussion streams from WhatsApp, Discord, and Canvas.
-
-`Next.js 15+` `React 19` `Prisma 7` `Supabase` `Gemini 2.5 Flash`
+`Rust` `HNSW` `WAL` `Product Quantization` `Concurrency`
 
 ---
 
-### 🗣️ [Jagrut — AI Voice Assistant for Android](https://github.com/Anshsurana123/jagrut)
-> Privacy-first, Hinglish-native Android assistant with offline wake word detection and zero-API GUI automation.
+## ⚡ [RAGINGOA](https://github.com/Anshsurana123/RAGINGOA)
 
-- 🔒 **Edge AI Privacy**: Executes device commands and wake word detection locally on the phone with zero cloud latency.
-- 🎙️ **Hinglish-Native Core**: Deep bilingual natural language understanding optimized for combined English and Hindi syntax.
-- 📱 **Zero-API GUI Automation**: Autonomously navigates and interacts with native applications using Accessibility-powered UI exploration.
+**A multilingual retrieval system designed around measurable latency and layered safety.**
 
-`Kotlin` `Android SDK` `ONNX Runtime` `Cerebras AI`
+* FAISS **HNSW** retrieval
+* Embedding + retrieval + reranking pipeline
+* Multilingual query processing
+* STT integration
+* Layered input/output guardrails
+* Extractive evidence handling before generative synthesis
+* Retrieval benchmarks with recorded **P50 / P95 / P99** measurements
 
----
+The repository includes the benchmark artifacts used to evaluate the retrieval pipeline and break latency down across its major stages.
 
-### 🤖 [AI Daily Builder](https://github.com/Anshsurana123/ai-daily-builder)
-> An AI that builds something new every single day — automated with GitHub Actions.
-
-- 🐍 **Autonomous Pipeline**: Python automation script that requests, codes, verifies, and deploys a new micro-project daily.
-- ☁️ **GitHub Actions**: Runs on a daily cron schedule to completely automate repository setup, commit history, and Vercel/Pages deployments.
-
-`Python` `Google Gemini` `GitHub Actions` `Automation`
+`Python` `FAISS` `HNSW` `Embeddings` `Reranking` `Guardrails`
 
 ---
 
-### 💊 [Sark Pharma Tech Services](https://github.com/Anshsurana123/sarkpharmatechservices)
-> A full-stack pharma services web platform — live on the internet.
+## 🔐 [Bitfrost](https://github.com/Anshsurana123/Bitfrost)
 
-- 🌐 **Production Web Platform**: Built with a custom schema design, Next.js serverless route handlers, and a PostgreSQL database setup.
-- 🎨 **Premium Styling**: Glassmorphic layout designed with responsive utilities and high-fidelity rendering.
+**An AI/API gateway focused on identity, request protection, caching, and operational controls.**
 
-`Next.js` `TypeScript` `PostgreSQL` `Vercel` → [**Live Site ↗**](https://sarkpharmatechservices.vercel.app)
+* HMAC-based request authentication
+* Timestamp / replay protection
+* Tenant-aware request handling
+* Circuit breaker
+* Rate limiting
+* Semantic-response caching
+* Real-time WebSocket telemetry
+* Upstream AI request proxying
+
+Built as an exploration of the security and reliability problems surrounding AI gateways rather than just another API wrapper.
+
+`Go` `HMAC-SHA256` `Supabase` `WebSockets` `API Gateway`
 
 ---
 
-## 📊 GitHub Stats
+## 📱 [Jagrut](https://github.com/Anshsurana123/jagrut)
+
+**An Android assistant built around on-device intelligence and system-level automation.**
+
+* Offline wake-word inference
+* ONNX/TFLite model integration
+* Hinglish command parsing
+* Android `AccessibilityService` automation
+* Camera2 integration
+* Deterministic local command handling
+* AI-assisted action planning
+* Explicit action restrictions before execution
+
+The interesting part isn't the chatbot — it's the bridge between natural-language commands and actual Android capabilities.
+
+`Kotlin` `Android SDK` `ONNX Runtime` `AccessibilityService` `Camera2`
+
+---
+
+## 🔎 [Sentinel](https://github.com/Anshsurana123/sentinel)
+
+**An academic intelligence platform combining document analysis with claim and source lineage.**
+
+* Supabase authentication
+* Prisma-backed data model
+* Academic document processing
+* Gemini-powered analysis
+* Claim relationships and lineage
+* Recursive parent/child claim traversal
+* Interactive visualization of evidence relationships
+* Modular API routes for separate system concerns
+
+The claim-chain system is designed to preserve relationships between claims rather than treating generated answers as isolated text.
+
+`Next.js` `React` `Prisma` `Supabase` `Gemini`
+
+---
+
+## 🎯 [Job Recruitment](https://github.com/Anshsurana123/job-recruitment)
+
+**A hybrid information-retrieval and ranking pipeline for candidate matching.**
+
+* Lexical + semantic retrieval
+* Candidate scoring
+* Seniority and experience analysis
+* Cross-encoder reranking
+* Duplicate / keyword-stuffed content detection
+* Deterministic ranking logic
+* Validation and evaluation tooling
+
+Rather than asking an LLM to simply "score a resume", the system separates retrieval, scoring, and reranking into distinct stages.
+
+`Python` `Embeddings` `BM25` `Cross-Encoder` `Docker`
+
+---
+
+# 🧪 Other Things I've Built
+
+A few other projects worth exploring:
+
+**[Collaborative Workspace](https://github.com/Anshsurana123/collaborative-workspace)**
+Real-time collaborative workspace using synchronization, WebSockets, whiteboards, Kanban, and document-style collaboration.
+
+**[DevLens](https://github.com/Anshsurana123/dev-lens-IBM-BOB)**
+AI-assisted repository analysis, code review, security review, documentation, and developer workflows.
+
+**[ChronoGuard](https://github.com/Anshsurana123/ChronoGuard)**
+Computer-vision prototype exploring tracking, privacy filtering, geofencing, and real-time events.
+
+**[Sark Pharma Tech Services](https://github.com/Anshsurana123/sarkpharmatechservices)**
+A deployed full-stack web platform built with Next.js, TypeScript, and PostgreSQL.
+
+---
+
+# 📈 How I Like to Build
+
+```text
+Idea
+ ↓
+Prototype
+ ↓
+Measure
+ ↓
+Find the ugly edge cases
+ ↓
+Break it
+ ↓
+Fix it
+ ↓
+Ship
+```
+
+I'm particularly interested in projects where the interesting question isn't just:
+
+> **"Can we make it work?"**
+
+but:
+
+> **"What happens when it fails, scales, gets attacked, or gets pushed past its happy path?"**
+
+---
+
+# 📬 Let's Talk
+
+I'm interested in collaborating on:
+
+**AI systems · retrieval · infrastructure · security · developer tools · Android/edge AI**
+
+📩 **[anshsuran01@gmail.com](mailto:anshsuran01@gmail.com)**
+
+🌐 **[Portfolio](https://portfolio-website-rho-five-80.vercel.app/)**
+
+---
 
 <div align="center">
 
-![Ansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anshsurana123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshsurana123&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 📬 Let's Talk
-
-- 🤝 Always open to **collaborations on AI Agents, High-Performance Gateways, or Mobile Engineering**
-- 💬 Ask me about **Multi-Agent Swarms, Semantic Caching, Offline Android LLMs**
-- 📩 Reach me at **anshsuran01@gmail.com**
-
----
-
-<div align="center">
-
-*"An idea is nothing until you ship it."*
-
-**⭐ Star something if it sparks joy!**
+### Build things worth inspecting.
 
 </div>
